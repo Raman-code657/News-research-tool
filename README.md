@@ -12,4 +12,3 @@ A Streamlit-based news research tool that uses LangChain and OpenAI to process n
 - Answer questions based on the processed content
 - Display sources for answers
 
-![image alt](https://drive.google.com/file/d/1Ako4ydF7jGa6JUTGTeg3Q2652pKJGPKv/view?usp=drive_link)
